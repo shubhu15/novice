@@ -1,1 +1,1 @@
-# novice
+# SCHOOL MANAGEMENT SYSTEM
